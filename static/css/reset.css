@@ -1,0 +1,35 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0}
+
+body{color:#000;background:#f8fafb;font-size:12px;line-height:1.25; font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+
+table{border-collapse:collapse;border-spacing:0;}
+
+h1,h2,h3,h4,h5,h6{font-size:1em;font-weight:normal}
+
+a{text-decoration:none;}
+
+a:hover{text-decoration:none}
+
+ul, ol, li {list-style: none;}
+
+input,label,select,option,textarea,button,fieldset,legend{font-size:1em;}
+
+input[type=text],textarea, button{-webkit-appearance:none;-webkit-border-radius:0;outline:none}
+
+input.text{color:#444;border-color:#9f9f9f #dcdcdc #dcdcdc #9f9f9f;border-style:solid;border-width:1px;padding:3px 2px;height:14px}
+
+input.radio,input.checkbox{margin-right:2px;vertical-align:-2px}
+
+input.radio,input.checkbox{margin-left:-2px}
+
+label.radio,label.checkbox{margin-right:5px}
+
+textarea{border-color:#9f9f9f #dcdcdc #dcdcdc #9f9f9f;border-style:solid;border-width:1px;padding:1px;resize:none}
+
+em, i {
+    font-style: normal;
+}
+
+b, strong {
+    font-weight: normal;
+}
